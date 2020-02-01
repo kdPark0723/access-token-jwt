@@ -1,0 +1,19 @@
+{
+  "name": "access-token-jwt",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Si-Yual Park",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "test"
+  ],
+  "dependencies": {
+    "jwt-core": "^1.1.0"
+  }
+}
